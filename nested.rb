@@ -57,7 +57,7 @@ def dennis_ritchies_language
         }
      }
 	solution = programmer_hash[:dennis_ritchie][:languages]
-	solution
+	solution[0]
 end
 
 def adding_matz
